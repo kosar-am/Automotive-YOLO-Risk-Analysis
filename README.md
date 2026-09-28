@@ -193,7 +193,7 @@ cd Automotive-YOLO-Risk-Analysis
 ### 2. Install the Required Libraries
 
 ```bash
-pip install ultralytics torch torchvision pandas numpy matplotlib jupyter
+pip install -r requirements.txt
 ```
 
 ### 3. Prepare the BDD100K Dataset
